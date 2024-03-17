@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [106.8272, -6.1751]
+  },
+  "properties": {
+    "name": "Monas (National Monument)",
+    "description": "Monas is a national monument in Jakarta, Indonesia. It symbolizes the fight for Indonesia's independence. It is located in the center of Merdeka Square."
+  }
+}
+
